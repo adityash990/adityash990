@@ -2,10 +2,7 @@
 
 🚀 A passionate Tech Enthusiast | Full-Stack Learner | Cloud & DevOps Explorer | Business Analytics Curious  
 
-🎓 Final Year CSE Student | Cloud Computing Specialization | Bennett University  
-
 ---
-
 ## 🛠️ **Tech Stack & Tools**  
 
 `TypeScript` `JavaScript` `Python` `C++` `Docker` `Kubernetes` `SQL` `HTML5` `CSS3` `React` `Vite` `Power BI` `Tableau`
