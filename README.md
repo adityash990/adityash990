@@ -17,12 +17,4 @@
 
 ---
 
-## 💡 **About Me**  
-
-🔧 I love building impactful projects that blend tech, business, and cloud technologies  
-💬 Open to tech collaborations, product discussions, or knowledge sharing  
-🎯 On a journey to master DevOps, Analytics, and Product Development  
-
----
-
 **Let's code, collaborate, and create something meaningful!** 🚀
