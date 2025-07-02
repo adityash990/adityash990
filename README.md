@@ -12,14 +12,6 @@
 
 ---
 
-## 🔥 **What I'm Working On**  
-
-- Full-Stack Task Manager with Python, Docker & Kubernetes ⚙️  
-- E-Commerce & Business Analytics Dashboards 🛒📊  
-- Exploring AI/ML basics & Predictive Insights 🤖  
-
----
-
 ## 🌐 **Let's Connect!**  
 
 🌍 [Portfolio](https://your-portfolio-link)  
