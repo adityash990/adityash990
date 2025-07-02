@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hey there! 👋 I'm Aditya Sharma
 
-<!--
-**adityash990/adityash990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate Tech Enthusiast | Full-Stack Learner | Cloud & DevOps Explorer | Business Analytics Curious  
 
-Here are some ideas to get you started:
+🎓 Final Year CSE Student | Cloud Computing Specialization | Bennett University  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Tech Stack & Tools**  
+
+`TypeScript` `JavaScript` `Python` `C++` `Docker` `Kubernetes` `SQL` `HTML5` `CSS3` `React` `Vite` `Power BI` `Tableau`
+
+---
+
+## 🔥 **What I'm Working On**  
+
+- Full-Stack Task Manager with Python, Docker & Kubernetes ⚙️  
+- E-Commerce & Business Analytics Dashboards 🛒📊  
+- Exploring AI/ML basics & Predictive Insights 🤖  
+
+---
+
+## 🌐 **Let's Connect!**  
+
+🌍 [Portfolio](https://your-portfolio-link)  
+📈 [LinkedIn](https://www.linkedin.com/in/your-link)  
+💻 [GitHub Projects](https://github.com/adityash990)  
+
+---
+
+## 💡 **About Me**  
+
+🔧 I love building impactful projects that blend tech, business, and cloud technologies  
+💬 Open to tech collaborations, product discussions, or knowledge sharing  
+🎯 On a journey to master DevOps, Analytics, and Product Development  
+
+---
+
+**Let's code, collaborate, and create something meaningful!** 🚀
