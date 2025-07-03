@@ -13,7 +13,7 @@
 
 🌍 [Portfolio](https://aditya-portfolio-tau.vercel.app/)  
 📈 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-6a3b44281/)  
-💻 [GitHub Projects](https://github.com/adityash990)  
+💻 [GitHub Projects](https://github.com/adityash990?tab=repositories)  
 
 ---
 
