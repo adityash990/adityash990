@@ -11,7 +11,7 @@
 
 ## 🌐 **Let's Connect!**  
 
-🌍 [Portfolio](https://aditya-portfolio-tau.vercel.app/)  
+🌍 [Portfolio](https://aditya-portfolio-six-blue.vercel.app/)  
 📈 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-6a3b44281/)  
 💻 [GitHub Projects](https://github.com/adityash990?tab=repositories)  
 
